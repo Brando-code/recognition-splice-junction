@@ -1,2 +1,2 @@
-# recognition-splice-junction
+# Recognition splice junction
 This Jupyter notebook introduces applications of three different classification models used in the field of machine learning to recognize a specific splice junction within a DNA genetic sequence. The considered models include a Long Short-Term Memory (LSTM) neural network, a Convolutional Neural Network (CNN), and a Random Forest. The work was addressed by employing each model individually and in cascade with a Bayesian optimization process that significantly improved performance in two out of three cases.
